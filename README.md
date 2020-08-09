@@ -1,2 +1,1 @@
-Educations project Coffee Machine for hyperskill.org
-
+Coffee Machine is educations project for hyperskill.org
